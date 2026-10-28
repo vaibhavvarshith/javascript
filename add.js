@@ -1,2 +1,2 @@
-this is a new siggested file.
+this is a new suggested file.
 
